@@ -323,6 +323,12 @@ Download the following datasets and place both CSV files in `data/raw/`:
 - Add cross-dashboard filter actions in Tableau for interactive game-level drill-down
 
 ---
+## Screenshots from Tableau dashboard
+
+<img width="1358" height="708" alt="Gr1" src="https://github.com/user-attachments/assets/d77bf709-16e5-43df-8819-85468287cd57" />
+<img width="1323" height="716" alt="gr2" src="https://github.com/user-attachments/assets/6f90e451-ac32-4bc3-9b88-8a9dff21d18f" />
+<img width="1202" height="708" alt="gr3" src="https://github.com/user-attachments/assets/13d211ad-46a9-4550-9146-6beb929cf5c9" />
+<img width="1291" height="748" alt="Gr4" src="https://github.com/user-attachments/assets/a6bfa00a-76bf-412b-827b-dbeb719cb38f" />
 
 ## Contact
 

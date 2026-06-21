@@ -52,7 +52,7 @@ review-manipulation-detector/
 
 ---
 
-## Data Sources
+## Data Sources ( I couldn't upload here because of the size of data so I am listing detailed way to find this data. Feel free to reach out if you need the data directly)
 
 ### Source 1 — Steam Web API
 - **Volume:** 38,000 reviews across 19 games (2,000 per game)
@@ -66,7 +66,7 @@ review-manipulation-detector/
 - **Coverage:** Launch day to March 2025, up to 103 months per game
 - **Purpose:** Historical sentiment trajectory analysis
 - **Key fields:** review date, score (0-100), review type (user/critic), game metadata
-- **URL:** kaggle.com/datasets
+- **URL:** https://www.kaggle.com/datasets/davutb/metacritic-games
 
 ### Why Two Sources
 

@@ -4,7 +4,6 @@
 **Email:** explorarhok@gmail.com  
 **Tools:** Python · Pandas · scikit-learn · Tableau · Steam Web API · Kaggle  
 **Dataset Size:** 113,000+ reviews across 19 major game launches  
-**Timeline:** 2024  
 
 ---
 
